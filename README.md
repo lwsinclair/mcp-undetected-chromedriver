@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dragons96-mcp-undetected-chromedriver-badge.png)](https://mseep.ai/app/dragons96-mcp-undetected-chromedriver)
+
 # MCP-Undetected-Chromedriver
 
 [![smithery badge](https://smithery.ai/badge/@dragons96/mcp-undetected-chromedriver)](https://smithery.ai/server/@dragons96/mcp-undetected-chromedriver)
